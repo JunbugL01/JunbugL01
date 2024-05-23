@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JunbugL01
+- 👋 Hi, I’m @Lanre
 - 👀 I’m interested in Java and Hadoop
 - 🌱 I’m currently learning PIG and Docker
 - 💞️ I’m looking to collaborate on Java projects
